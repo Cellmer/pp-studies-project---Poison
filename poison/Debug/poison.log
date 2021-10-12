@@ -1,0 +1,3 @@
+﻿  poison.cpp
+C:\Dev\Studies\Podstawy Programowania\poison\poison\poison.cpp(1023,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  poison.vcxproj -> C:\Dev\Studies\Podstawy Programowania\poison\Debug\poison.exe
